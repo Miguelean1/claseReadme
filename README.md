@@ -101,5 +101,29 @@ Simplemente descargamos la imagen, y la arrastramos
 Podemos modificar el tamaño (con marcas HTML)
 
 
-<img src="![WildRobot](https://github.com/user-attachments/assets/8599848d-9089-4970-882b-e3a5a28d3def) witdh
-"
+<img src="![WildRobot](https://github.com/user-attachments/assets/8599848d-9089-4970-882b-e3a5a28d3def)" width="600" >
+
+![WildRobot](https://github.com/user-attachments/assets/8599848d-9089-4970-882b-e3a5a28d3def)
+
+Ejemplo enlace
+
+[Readme](https://www.wikipedia.es/)
+
+Ejemplo de enlace automatico
+
+<https://www.wikipedia.es/>
+
+Ejemplo de emojis
+
+:+1:
+
+Bloques de código
+
+```bash
+npm install
+```
+
+```javascript
+ function decirHola(){
+console.log('Hola')
+}
